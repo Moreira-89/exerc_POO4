@@ -1,4 +1,4 @@
-from código_aqui.pasta import Pasta
+from pasta import Pasta
 
 
 class DiscoVirtual:
