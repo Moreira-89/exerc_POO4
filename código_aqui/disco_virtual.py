@@ -1,3 +1,6 @@
+from código_aqui.pasta import Pasta
+
+
 class DiscoVirtual:
     def __init__(self):
         self.pastas = []
