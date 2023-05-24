@@ -1,3 +1,4 @@
+from código_aqui.arquivo import Arquivo
 from disco_virtual import DiscoVirtual
 
 # Criar uma instância do DiscoVirtual
